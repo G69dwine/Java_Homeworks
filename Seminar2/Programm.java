@@ -1,4 +1,4 @@
-package Homeworks.Seminar2;
+package Seminar2;
 
 public class Programm {
     public static void main(String[] args) {
